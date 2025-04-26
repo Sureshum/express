@@ -1,6 +1,6 @@
 Documentación de la API REST con JWT
 
-url http://localhost:3000
+url (https://railway.com/invite/EkkYtErnp1O)
 
 1. Autenticación
 
